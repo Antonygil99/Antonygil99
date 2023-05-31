@@ -1,16 +1,26 @@
-### Hi there 👋
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BTEM Home Page</title>
 
-<!--
-**Antonygil99/Antonygil99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <link rel="stylesheet" href="stylesheet.css">
+    <script src="https://cdn.tailwindcss.com"></script>
 
-Here are some ideas to get you started:
+</head>
+<body>
+	<h1 style="text-align: center;  margin: -10px;">
+		¡Hey! Soy <strong style="color:  #FA7E15">Tony Gil</strong>
+	</h1>
+	<p style="margin-bottom: 0px; text-align: center;">
+	Ingeniero en Sistemas Embebidos. Actualmente estoy aprendiendo  y  para seguir mejorando en mi campo. Soy una persona que asimila muy rápido nuevo conocimiento, muy creativa y que le gusta innovar.
+	</p>
+	<h1 style="text-align: center;  margin: 0px;">
+		Skills
+	</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+</body>
+</html>
