@@ -33,7 +33,7 @@
 </div>
 <br>
 <div align = "center" dir ="auto">
-<strong>integrated development environment:&nbsp  </strong>
+<strong>Integrated Development Environment:&nbsp  </strong>
 <a target = "_blank" rel = "noopener noreferrer nofollow"> <img src="https://raw.githubusercontent.com/Antonygil99/iconos/main/arduino.png?token=GHSAT0AAAAAACDJX7TBTALUPTCW426CJM7CZDWYUBQ" style="max-width: 100%;"></a>
 <a target = "_blank" rel = "noopener noreferrer nofollow"> <img src="https://raw.githubusercontent.com/Antonygil99/iconos/main/eclipse.png?token=GHSAT0AAAAAACDJX7TB3BOJURVTQKETCGA4ZDWYUNQ" style="max-width: 100%;"></a>
 <a target = "_blank" rel = "noopener noreferrer nofollow"> <img src="https://raw.githubusercontent.com/Antonygil99/iconos/main/visual.png?token=GHSAT0AAAAAACDJX7TB6VMDMZDUJMXSEI7GZDWYUWQ" style="max-width: 100%;"></a>
