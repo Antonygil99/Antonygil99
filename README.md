@@ -11,7 +11,7 @@
 	Me gusta el diseño gráfico 🎨, la electricidad 👩‍🔧 y diseño de interfaces 💻
 </p>
 <br>
-🎆
+
 <h1 align = "center" dir ="auto">
-	Skills
+	🗝Skills
 </h1>
