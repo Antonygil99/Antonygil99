@@ -7,7 +7,7 @@
 </head>
 <body>
 	<h1 style="text-align: center;  margin: -10px;">
-		¡Hey! Soy <strong style="color:  #FA7E15">Tony Gil</strong>
+		¡Hey! Soy <strong style="color:  #FA7E15;">Tony Gil</strong>
 	</h1>
 	<p style="margin-bottom: 0px; text-align: center;">
 	Ingeniero en Sistemas Embebidos. Actualmente estoy aprendiendo  y  para seguir mejorando en mi campo. Soy una persona que asimila muy rápido nuevo conocimiento, muy creativa y que le gusta innovar.
