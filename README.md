@@ -26,5 +26,5 @@
 </div>
 <div align = "center" dir ="auto">
 <strong>Microcontroladores:  </strong>
-<a target = "_blank" rel = "noopener noreferrer nofollow"> <img src="https://raw.githubusercontent.com/Antonygil99/iconos/main/c.png?token=GHSAT0AAAAAACDJX7TB5SOPGIPVOWIT3T6SZDWYALA" style="max-width: 100%;"></a>
+<a target = "_blank" rel = "noopener noreferrer nofollow"> <img src="https://raw.githubusercontent.com/Antonygil99/iconos/main/c.png?token=GHSAT0AAAAAACDJX7TBOM6L26JJ36CBWADUZDWYDGQ" style="max-width: 100%;"></a>
 </div>
