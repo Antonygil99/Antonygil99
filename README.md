@@ -25,6 +25,6 @@
 
 </div>
 <div align = "center" dir ="auto">
-<strong>Microcontroladores:  </strong>
+<strong>Microcontroller Programming Languages:&nbsp  </strong>
 <a target = "_blank" rel = "noopener noreferrer nofollow"> <img src="https://raw.githubusercontent.com/Antonygil99/iconos/main/c.png?token=GHSAT0AAAAAACDJX7TBOM6L26JJ36CBWADUZDWYDGQ" style="max-width: 100%;"></a>
 </div>
