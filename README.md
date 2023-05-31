@@ -6,3 +6,7 @@
 <p align = "center" dir ="auto">
 	Ingeniero en Sistemas Embebidos apasionado por el diseño y arte. Me gusta enseñar lo que sé impulsando la creatividad y habilidades de los demás. Me gusta saber como funcionan las cosas y los procesos que se realizan previos al producto final. FRONTED o BACKED. ¿Por qué no ambos? pero que uno sea un reto y el otro mi hobby
 </p>
+<br>
+<p align = "center" dir ="auto">
+	Me gusta el diseño gráfico 🎨, la electricidad 👩‍🔧 y diseño de interfaces 💻
+</p>
