@@ -8,7 +8,7 @@
 </p>
 <br>
 <p align = "center" dir ="auto">
-	Me gusta el diseño gráfico 🎨, la electricidad 👩‍🔧 y diseño de interfaces 💻
+	Me gusta el diseño gráfico 🎨, la electrónica🖥, Internet de las cosas 📱 y diseño de interfaces 💻
 </p>
 <br>
 
