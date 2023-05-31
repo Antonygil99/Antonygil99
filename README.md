@@ -24,3 +24,6 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/86939d28f5d8c6d8dfbf24178f1960c7c08670989767ae629a8d820cb768bd33/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d5953514c2d3030373538463f6c6f676f3d4d5953514c266c6f676f436f6c6f723d464646464646267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/86939d28f5d8c6d8dfbf24178f1960c7c08670989767ae629a8d820cb768bd33/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d5953514c2d3030373538463f6c6f676f3d4d5953514c266c6f676f436f6c6f723d464646464646267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/MYSQL-00758F?logo=MYSQL&amp;logoColor=FFFFFF&amp;style=for-the-badge" style="max-width: 100%;"></a>
 
 </div>
+<div align = "center" dir ="auto">
+	<strong>Microcontroladores:  </strong>
+</div>
