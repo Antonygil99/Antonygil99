@@ -1,3 +1,3 @@
 <h2 align = "center">
-	Hola Soy <span style ="color: dark-orange;">Tony Gil</span>
+	<span style='color: red;'>long</span>
 </h2>
