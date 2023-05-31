@@ -1,3 +1,3 @@
-<h3 style = "align = center">
+<h3 align = "center">
 	Hola Soy Tony Gil
 </h3>
