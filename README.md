@@ -14,6 +14,9 @@
 <p align = "center" dir ="auto">
 	Me apasiona el diseño gráfico 🎨, me fascina la electrónica🖥, el Internet de las cosas 📱es lo mejor para mi vida.
 </p>
+<p align = "center" dir ="auto">
+	/I'm passionated by graphic design 🎨, I love electronics🖥, and the IoT 📱is the best of my life.
+</p>
 <br>
 
 <h1 align = "center" dir ="auto">
